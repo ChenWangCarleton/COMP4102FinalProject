@@ -1,6 +1,6 @@
 # COMP4102 Final project
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
 # To run the project
 - please ensure python 3.7.3 is installed
 - this project is developed and tested on windows 10
